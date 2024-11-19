@@ -1,6 +1,9 @@
 ### Hi, I'm Javier 🤟🏻👨🏻‍💻
 
-![github-header-image](https://github.com/user-attachments/assets/918d7e92-6f14-4c5b-9f1a-2084ab89fbde)
+![github-header-image](https://github.com/user-attachments/assets/d96fe79e-2d5c-402c-b5e7-f105f78176d0)
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 <!--
 **javier25arroyo/javier25arroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
