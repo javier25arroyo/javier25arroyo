@@ -13,15 +13,20 @@ I am a Software Development Engineering student with a passion for technology an
 Beyond my technical skills, I excel in soft skills such as leadership and teamwork, always maintaining a proactive attitude and initiative in each project. My goal is to leverage the power of technology to solve complex problems and create high-quality solutions.
 </div>
 
-### Back-End Technologies 🌐
+### Back-End Technologies ⚙️
 
-| [<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="30">](https://www.java.com/en/) | [<img src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" alt="C#" width="30">](https://dotnet.microsoft.com/es-es/languages/csharp) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="30">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="30">](https://isocpp.org/)
+| [<img src="https://cdn-icons-png.flaticon.com/256/226/226777.png" alt="Java" width="30">](https://www.java.com/en/) | [<img src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" alt="C#" width="30">](https://dotnet.microsoft.com/es-es/languages/csharp) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="30">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="30">](https://isocpp.org/)
   |---|---|---|---|
 
-### Front-End Technologies 
+### Front-End Technologies 🌐
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="30">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="30">](https://getbootstrap.com/) | [<img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" alt="Angular" width="30">](https://angular.dev/)
   |---|---|---|---|
+
+### Data Base Technologies 🛢️
+
+|[<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="OracleDB" width="30">](https://www.oracle.com/cr/)
+  |---|
 
 
 
