@@ -20,8 +20,8 @@ Beyond my technical skills, I excel in soft skills such as leadership and teamwo
 
 ### Front-End Technologies 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="30">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="30">](https://getbootstrap.com/) | [<img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" alt="Angular" width="30">](https://angular.dev/)
-  |---|---|---|---|
+|[<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="30">] | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="30">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="30">](https://getbootstrap.com/) | [<img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" alt="Angular" width="30">](https://angular.dev/)
+  |---|---|---|---|---|---|
 
 ### Data Base Technologies 🛢️
 
