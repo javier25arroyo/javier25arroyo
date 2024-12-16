@@ -34,7 +34,13 @@ Beyond my technical skills, I excel in soft skills such as leadership and teamwo
   |---|---|---|---|---|---|---|
 
   
+#### My Leetcode stats:
+<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vault-developer&layout=compact&theme=tokyonight) -->
+[![](https://leetcard.jacoblin.cool/javier25arroyo?ext=contest)](https://leetcode.com/u/javier25arroyo/)
 
+#### Message me:
+[![Linkedin Badge](https://img.shields.io/badge/Javier_Pérez_Arroyo-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/javier-pérez-arroyo-268147226/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/javier25arojas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javier25arojas@gmail.com)](mailto:javier25arojas@gmail.com)
 
 
 
