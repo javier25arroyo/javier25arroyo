@@ -42,7 +42,9 @@ Beyond my technical skills, I excel in soft skills such as leadership and teamwo
 [![Linkedin Badge](https://img.shields.io/badge/Javier_Pérez_Arroyo-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/javier-pérez-arroyo-268147226/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/javier25arojas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javier25arojas@gmail.com)](mailto:javier25arojas@gmail.com)
 
-
+<p align="center">
+    <img src="https://media3.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif" width=60>
+</p>
 
 <!--
 **javier25arroyo/javier25arroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
