@@ -44,6 +44,7 @@ Beyond my technical skills, I excel in soft skills such as leadership and teamwo
 
 <p align="center">
     <img src="https://media3.giphy.com/media/Me7PBESMDoWyzSN9M9/giphy.gif" width=60>
+    <img scr="https://github.githubassets.com/assets/mona-loading-dimmed-5da225352fd7.gif" width=60>
 </p>
 
 <!--
