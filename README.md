@@ -2,16 +2,30 @@
 
 ![github-header-image](https://github.com/user-attachments/assets/d96fe79e-2d5c-402c-b5e7-f105f78176d0)
 
-<div style="margin-bottom: 20;"></div>
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
 <br>
 
-<div style = "float: right; ">
-I am a Software Development Engineering student with a passion for technology and a strong foundation in full-stack technologies. I have experience in Java, C#, Bootstrap, JavaScript, HTML, CSS, Angular, Oracle, MySQL, and SQL Server.
-Beyond my technical skills, I excel in soft skills such as leadership and teamwork, always maintaining a proactive attitude and initiative in each project. My goal is to leverage the power of technology to solve complex problems and create high-quality solutions.
-</div>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h4>About Me 👨🏻‍💻</h4>
+      <p>
+        🎓 <strong>Software Development Engineering</strong> student with a passion for technology and a strong foundation in full-stack development.
+      </p>
+      <p>
+        💻 Experienced in <strong>Java, C#, JavaScript, TypeScript, Angular, React</strong> and databases like <strong>Oracle, MySQL & SQL Server</strong>.
+      </p>
+      <p>
+        🚀 I combine technical expertise with soft skills like <strong>leadership</strong> and <strong>teamwork</strong>, always maintaining a proactive attitude in every project.
+      </p>
+      <p>
+        🎯 My goal is to leverage technology to solve complex problems and build high-quality solutions.
+      </p>
+    </td>
+    <td width="30%" align="left" valign="middle">
+      <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="180">
+    </td>
+  </tr>
+</table>
 
 ### Back-End Technologies ⚙️
 
@@ -20,8 +34,8 @@ Beyond my technical skills, I excel in soft skills such as leadership and teamwo
 
 ### Front-End Technologies 🌐
 
-|[<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="Css" width="30">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="30">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="30">](https://getbootstrap.com/) | [<img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" alt="Angular" width="30">](https://angular.dev/)
-  |---|---|---|---|---|---|
+|[<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="30">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="Css" width="30">]() | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="30">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="30">](https://getbootstrap.com/) | [<img src="https://houseofangular.io/wp-content/uploads/2023/11/AngularLogoGradient.png" alt="Angular" width="30">](https://angular.dev/) | [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30">](https://tailwindcss.com/) | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" width="30">](https://react.dev/) | [<img src="https://raw.githubusercontent.com/github/explore/main/topics/astro/astro.png" alt="Astro" width="30">](https://astro.build/)
+  |---|---|---|---|---|---|---|---|---|
 
 ### SQL & NoSQL Data Base Technologies 🛢️
 
