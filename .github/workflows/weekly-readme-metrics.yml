@@ -18,7 +18,7 @@ jobs:
       - name: Generate activity card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || github.token }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: javier25arroyo
           template: classic
           filename: assets/github-activity.svg
@@ -30,7 +30,7 @@ jobs:
       - name: Generate achievements card
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || github.token }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: javier25arroyo
           template: classic
           filename: assets/github-achievements.svg
