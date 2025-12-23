@@ -114,7 +114,7 @@ mindset: Design first, ship fast, iterate often
 </div>
 
 <div align="center">
-  <img src="./assets/github-activity.svg" alt="GitHub Activity (auto-updated weekly)" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javier25arroyo&theme=tokyonight" alt="GitHub Streak Stats" width="95%"/>
 </div>
 
 ---
@@ -143,7 +143,9 @@ Cloud Platforms        ████████░░░░░ 65%
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="./assets/github-achievements.svg" alt="GitHub Achievements (auto-updated weekly)" width="95%"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=javier25arroyo&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=javier25arroyo&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -160,9 +162,6 @@ Cloud Platforms        ████████░░░░░ 65%
 📂 **Portfolio:** _[Portfolio](https://javier25arroyo.github.io/Portafolio/)_
 
 <br/>
-
-> 💡 **Open to:** Full-time positions • Contract work • Interesting projects • Collaboration opportunities
-
 <img src="./assets/wave.gif" width="50" alt="Wave"/>
 
 <br/><br/>
