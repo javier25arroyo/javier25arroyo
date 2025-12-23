@@ -27,27 +27,31 @@ name: Javier Pérez Arroyo
 role: Full Stack Developer
 experience: Full Stack Development
 location: Costa Rica 🇨🇷
+languages: Spanish (Native) | English (Intermediate)
+availability: Open to opportunities
 mindset: Design first, ship fast, iterate often
 ```
 
-- Building secure, high-performing web apps with a product-thinking mindset
-- Comfortable from REST/GraphQL APIs to modern front-ends and CI/CD pipelines
-- Lead-by-example collaborator who values clean code, code reviews, and documentation
-- Constantly learning cloud-native patterns, DX tooling, and performance tuning
+**🎯 What I Bring to Your Team:**
+
+- 💡 **Product-Minded Engineer** - Building secure, high-performing web apps that solve real business problems
+- 🔗 **Full-Stack Expertise** - Comfortable across the entire stack: REST/GraphQL APIs, modern front-ends (React/Angular), and cloud infrastructure
+- 🤝 **Collaborative Leader** - Lead-by-example approach, with strong focus on code reviews, documentation, and knowledge sharing
+- 📈 **Continuous Learner** - Actively exploring cloud-native patterns, DevOps practices, and performance optimization techniques
 
 <br clear="right"/>
 
 ---
 
-## 🧭 Snapshot
+## 🧭 Professional Snapshot
 
-- 🎓 **Software Development Engineering** student with a passion for technology
-- 💻 Specialized in **Full-Stack Development** with modern technologies
-- 🚀 Strong **leadership** and **teamwork** skills with a proactive attitude
-- 🎯 Focused on building **high-quality solutions** to complex problems
-- 🌱 Always learning and exploring new technologies
+- 🎓 **Software Development Engineering** student with hands-on industry experience
+- 💼 **Full-Stack Development** specialist using .NET, Node.js, React, and Angular
+- 🏗️ Experience building **scalable web applications** from concept to deployment
+- 🔐 Strong focus on **security best practices**, clean architecture, and maintainable code
+- 🚀 Proven ability to work in **Agile teams** with excellent communication and problem-solving skills
+- 📚 Passionate about **continuous learning** - currently exploring cloud-native architectures and microservices
 
----
 
 ## 🛠️ Tech Stack
 
@@ -115,6 +119,27 @@ mindset: Design first, ship fast, iterate often
 
 ---
 
+## 💼 Core Competencies
+
+<div align="center">
+
+### Technical Skills
+```
+Architecture & Design  ████████████░ 95%
+Full-Stack Development ████████████░ 95%
+Database Design        ███████████░░ 90%
+DevOps & CI/CD         ████████░░░░░ 70%
+Cloud Platforms        ████████░░░░░ 65%
+```
+
+### Professional Skills
+**🎯 Problem Solving** • **🤝 Team Collaboration** • **📋 Project Management**  
+**💬 Technical Communication** • **📖 Documentation** • **🔍 Code Review**
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -125,14 +150,23 @@ mindset: Design first, ship fast, iterate often
 
 <div align="center">
 
-### 💬 Let's Connect
+### 💬 Let's Connect!
 
-<p><i>"Building the future, one line of code at a time."</i></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=2000&color=A1DCFF&center=true&vCenter=true&width=600&lines=Building+the+future,+one+line+of+code+at+a+time." alt="Reflection animation"/></a>
+
+📫 **Ready to discuss opportunities?**  
+📧 **Email:** [javier25arojas@gmail.com](mailto:javier25arojas@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/javier-pérez-arroyo-268147226/)  
+📂 **Portfolio:** _[Portfolio](https://javier25arroyo.github.io/Portafolio/)_
+
+<br/>
+
+> 💡 **Open to:** Full-time positions • Contract work • Interesting projects • Collaboration opportunities
 
 <img src="./assets/wave.gif" width="50" alt="Wave"/>
 
 <br/><br/>
 <img src="./favicon.png" alt="Javier Pérez Arroyo - Personal Brand" width="80"/>
-<p><sub>© 2025 Javier Pérez Arroyo</sub></p>
+<p><sub>© 2025 Javier Pérez Arroyo • Available for new opportunities</sub></p>
 
 </div>
