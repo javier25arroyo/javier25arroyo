@@ -41,9 +41,11 @@ mindset: Design first, ship fast, iterate often
 
 ## 🧭 Snapshot
 
-- 🔥 Current focus: TypeScript-first stacks, .NET microservices, and data-driven features
-- 🛰️ Exploring: clean architecture, observability, and scalable cloud infrastructure
-- 🧰 Favorite toolkit: Java, TypeScript, Angular, Node.js, C#, SQL Server
+- 🎓 **Software Development Engineering** student with a passion for technology
+- 💻 Specialized in **Full-Stack Development** with modern technologies
+- 🚀 Strong **leadership** and **teamwork** skills with a proactive attitude
+- 🎯 Focused on building **high-quality solutions** to complex problems
+- 🌱 Always learning and exploring new technologies
 
 ---
 
