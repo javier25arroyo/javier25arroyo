@@ -124,8 +124,8 @@ mindset: Design first, ship fast, iterate often
 <div align="center">
 
 ### Technical Skills
-```
-Architecture & Design  ████████████░ 95%
+```                                       
+Architecture & Design  ████████████  95%
 Full-Stack Development ████████████░ 95%
 Database Design        ███████████░░ 90%
 DevOps & CI/CD         ████████░░░░░ 70%
@@ -166,6 +166,6 @@ Cloud Platforms        ████████░░░░░ 65%
 
 <br/><br/>
 <img src="./favicon.png" alt="Javier Pérez Arroyo - Personal Brand" width="80"/>
-<p><sub>© 2025 Javier Pérez Arroyo • Available for new opportunities</sub></p>
+<p><sub>© Javier Pérez Arroyo • Available for new opportunities</sub></p>
 
 </div>
