@@ -127,6 +127,39 @@ mindset: Design first, ship fast, iterate often
 
 </div>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/Elecciones2026">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=Elecciones2026&theme=tokyonight&border_radius=10" alt="Elecciones2026"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/sismo-frontend">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=sismo-frontend&theme=tokyonight&border_radius=10" alt="sismo-frontend"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/sismos-plataforma-web">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=sismos-plataforma-web&theme=tokyonight&border_radius=10" alt="sismos-plataforma-web"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/svd-image-compressor">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=svd-image-compressor&theme=tokyonight&border_radius=10" alt="svd-image-compressor"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
