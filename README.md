@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-header-image.png" alt="Javier Pérez Arroyo - Software Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A1DCFF&height=200&section=header&text=Javier%20P%C3%A9rez%20Arroyo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Javier Pérez Arroyo" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4200&pause=1100&color=6366F1&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Design-first+Engineer+%F0%9F%9B%A0%EF%B8%8F;Shipping+Reliable+Digital+Products" alt="Typing animation"/></a>
 
@@ -127,6 +127,39 @@ mindset: Design first, ship fast, iterate often
 
 </div>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/Elecciones2026">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=Elecciones2026&theme=tokyonight&border_radius=10" alt="Elecciones2026"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/sismo-frontend">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=sismo-frontend&theme=tokyonight&border_radius=10" alt="sismo-frontend"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/sismos-plataforma-web">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=sismos-plataforma-web&theme=tokyonight&border_radius=10" alt="sismos-plataforma-web"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/javier25arroyo/svd-image-compressor">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=javier25arroyo&repo=svd-image-compressor&theme=tokyonight&border_radius=10" alt="svd-image-compressor"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -136,6 +169,14 @@ mindset: Design first, ship fast, iterate often
   <a href="https://github.com/javier25arroyo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=javier25arroyo&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="./assets/github-activity.svg" alt="GitHub Activity"/>
+</div>
+
+<div align="center">
+  <img src="./assets/github-achievements.svg" alt="GitHub Achievements"/>
 </div>
 
 <div align="center">
