@@ -172,6 +172,14 @@ mindset: Design first, ship fast, iterate often
 </div>
 
 <div align="center">
+  <img src="./assets/github-activity.svg" alt="GitHub Activity"/>
+</div>
+
+<div align="center">
+  <img src="./assets/github-achievements.svg" alt="GitHub Achievements"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=javier25arroyo&theme=tokyonight" alt="GitHub Streak Stats" width="95%"/>
 </div>
 
