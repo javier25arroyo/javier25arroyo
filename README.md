@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-header-image.png" alt="Javier Pérez Arroyo - Software Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A1DCFF&height=200&section=header&text=Javier%20P%C3%A9rez%20Arroyo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Javier Pérez Arroyo" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4200&pause=1100&color=6366F1&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Design-first+Engineer+%F0%9F%9B%A0%EF%B8%8F;Shipping+Reliable+Digital+Products" alt="Typing animation"/></a>
 
