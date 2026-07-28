@@ -14,6 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       # Generates SVGs directly into the repository via GitHub API.
       - name: Generate activity card
         uses: lowlighter/metrics@latest
@@ -39,3 +42,9 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_display: detailed
+
+      - name: Commit updated metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub metrics [skip ci]"
+          file_pattern: "assets/github-activity.svg assets/github-achievements.svg"
